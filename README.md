@@ -6,3 +6,9 @@
 [![Portfólio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://portfolio-roberto-barros.000webhostapp.com/)
 
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=dark)
+
+### Tecnologias:
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+
