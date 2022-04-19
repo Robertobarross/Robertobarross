@@ -3,7 +3,7 @@
 
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobarross)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobarross)](https://github.com/robertobarross/github-readme-stats)
 
 #### Tecnologias 🚀
 
