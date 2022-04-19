@@ -1,7 +1,5 @@
 #### Olá, Bem vindo(a)! 👋🙂
 
-O mundo de desenvolvimento web é encantador!
-
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobarross)](https://github.com/robertobarross/github-readme-stats)
@@ -22,3 +20,5 @@ O mundo de desenvolvimento web é encantador!
 [![YouTuby](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKdlRORajGh5Kv92aWQ4nSg)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://robertobarros27esp@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://portfolio-roberto-barros.000webhostapp.com/)
+
+Hoje estou buscando ser melhor que ontem! 😉
