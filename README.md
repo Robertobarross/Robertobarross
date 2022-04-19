@@ -1,5 +1,6 @@
-#### Olá, tudo bem com você? Espero que sim! Bem vindo(a) ao meu perfil no GitHub! 👋🙂
+#### Olá, Bem vindo(a)! 👋🙂
 
+O mundo de desenvolvimento web é encantador!
 
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
