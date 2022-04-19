@@ -3,7 +3,7 @@
 
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
-[![Roberto Barros wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertobarross)](https://github.com/anuraghazra/github-readme-stats)
+[![Roberto Barros wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robertobarross)]
 
 #### Tecnologias 🚀
 
