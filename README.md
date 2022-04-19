@@ -1,9 +1,9 @@
-### Olá, tudo bem com você? Espero que sim! Bem vindo(a) ao meu perfil no GitHub! 👋🙂
+## Olá, tudo bem com você? Espero que sim! Bem vindo(a) ao meu perfil no GitHub! 👋🙂
 
 
-![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=dark)
+![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
-### Tecnologias:
+## Tecnologias:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
