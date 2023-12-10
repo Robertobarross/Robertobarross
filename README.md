@@ -1,4 +1,4 @@
-#### Olá, Bem vindo(a)! 👋🙂
+#### Olá, Bem vindo(a)! 
 
 ![Roberto Barros GitHub stats](https://github-readme-stats.vercel.app/api?username=robertobarross&show_icons=true&theme=merko)
 
